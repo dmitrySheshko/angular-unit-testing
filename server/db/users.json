@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "firstName": "Tom",
+      "lastName": "Tomas",
+      "age": 30,
+      "gender": 0,
+      "address": {
+        "country": "USA",
+        "city": "Abilene"
+      }
+    },
+    {
+      "firstName": "John",
+      "lastName": "Johnes",
+      "age": 40,
+      "gender": 0,
+      "address": {
+        "country": "Germany",
+        "city": "Drezden"
+      }
+    }
+  ]
+}
